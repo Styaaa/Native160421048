@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.satya.native160421048"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.satya.native160421048"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
